@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio
 
 This Brian Mutai's portfolio who is a software developer
@@ -74,3 +75,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone who's code was used
 * Inspiration
 * etc
+=======
+# Brayonski
+>>>>>>> 86fc4834b645b0cffd28991b11af9c748376c33a
