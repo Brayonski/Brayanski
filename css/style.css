@@ -224,7 +224,7 @@ Maincontent li::before{
 	border-radius:28px;
 	display:inline-block;
 	cursor:pointer;
-	color:#ffffff;
+	/* color:#ffffff; */
 	/* font-family:Arial; */
 	font-size:17px;
 	padding:8px 18px;
