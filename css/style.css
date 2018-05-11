@@ -1,5 +1,5 @@
 .homepage{
-  background: url('../images/background.jpg') no-repeat center center fixed;
+  background: url('../images/jeshoots.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -220,4 +220,5 @@ img{
 
 .myButton:hover{
   box-shadow: 0 0 0 2px white;
+  transition: box-shadow 0.8s ease;
 }
